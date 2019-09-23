@@ -89,6 +89,3 @@ human.buy_dog("fido")
 human.buy_dog("maestro")
 
 human.list_pets
-
-
-
